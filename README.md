@@ -31,4 +31,5 @@
 
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=praveen-jangir&repo=praveen-jangir&theme=praveen-jangir)](https://github.com/praveen-jangir/praveen-jangir)
+<iframe src="https://finnhub.io/" title="Trading"></iframe>
 </div>
